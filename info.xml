@@ -8,6 +8,7 @@
     <author>Xavier dutoit</author>
     <email>civicrm@tttp.eu</email>
   </maintainer>
+<downloadUrl>https://github.com/TechToThePeople/sendeventconf/zipball/master</downloadUrl>
   <releaseDate>2012-10-11</releaseDate>
   <version>1.0</version>
   <develStage>stable</develStage>
