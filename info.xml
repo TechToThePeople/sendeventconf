@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
 <extension key="eu.tttp.sendeventconf" type="module">
   <file>sendeventconf</file>
-  <name>FIXME</name>
-  <description>FIXME</description>
-  <license>FIXME</license>
+  <name>send event conf</name>
+  <description>This extension changes the default so it doesn't send a confirmation email when registering from the back office</description>
+  <license>agpl3</license>
   <maintainer>
-    <author>FIXME</author>
-    <email>FIXME@example.com</email>
+    <author>Xavier dutoit</author>
+    <email>civicrm@tttp.eu</email>
   </maintainer>
-  <releaseDate>2012-10-16</releaseDate>
+  <releaseDate>2012-10-11</releaseDate>
   <version>1.0</version>
-  <develStage>alpha</develStage>
+  <develStage>stable</develStage>
   <compatibility>
-    <ver>4.2</ver>
+    <ver>4.1</ver>
   </compatibility>
-  <comments>This is a new, undeveloped module</comments>
+  <comments>Thanks to frontline defenders to have sponsored this module</comments>
   <civix>
     <namespace>CRM/Sendeventconf</namespace>
   </civix>
