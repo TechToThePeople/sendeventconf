@@ -14,6 +14,8 @@
   <develStage>stable</develStage>
   <compatibility>
     <ver>4.1</ver>
+    <ver>4.2</ver>
+    <ver>4.3</ver>
   </compatibility>
   <comments>Thanks to frontline defenders to have sponsored this module</comments>
   <civix>
